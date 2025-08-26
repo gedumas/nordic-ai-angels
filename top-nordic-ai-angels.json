@@ -1,202 +1,22 @@
 [
-  {
-    "rank": 1,
-    "name": "Daniel Ek",
-    "country": "SE",
-    "city": "Stockholm",
-    "ai_investments": 28,
-    "linkedin": "https://linkedin.com/in/dek",
-    "notable_portfolio": ["Spotify", "Helsing", "DeepL", "Cohere", "Stability AI"],
-    "background": "Founder & CEO Spotify"
-  },
-  {
-    "rank": 2,
-    "name": "Niklas Adalberth",
-    "country": "SE",
-    "city": "Stockholm",
-    "ai_investments": 24,
-    "linkedin": "https://linkedin.com/in/niklasadalberth",
-    "notable_portfolio": ["Klarna", "Sana Labs", "Granular AI", "Mindler"],
-    "background": "Co-founder Klarna"
-  },
-  {
-    "rank": 3,
-    "name": "Risto Siilasmaa",
-    "country": "FI",
-    "city": "Helsinki",
-    "ai_investments": 22,
-    "linkedin": "https://linkedin.com/in/ristosiilasmaa",
-    "notable_portfolio": ["Nokia", "F-Secure", "Varjo", "Kuva Space"],
-    "background": "Nokia Chairman, F-Secure founder"
-  },
-  {
-    "rank": 4,
-    "name": "Mikkel Svane",
-    "country": "DK",
-    "city": "Copenhagen",
-    "ai_investments": 20,
-    "linkedin": "https://linkedin.com/in/mikkelsvane",
-    "notable_portfolio": ["Zendesk", "Pleo", "Trustpilot", "Contractbook"],
-    "background": "Founder & CEO Zendesk"
-  },
-  {
-    "rank": 5,
-    "name": "Janus Friis",
-    "country": "DK",
-    "city": "Copenhagen",
-    "ai_investments": 19,
-    "linkedin": "https://linkedin.com/in/janusfriis",
-    "notable_portfolio": ["Skype", "Atomico", "Kahoot!", "Vivino"],
-    "background": "Co-founder Skype, Kazaa"
-  },
-  {
-    "rank": 6,
-    "name": "Peter Vesterbacka",
-    "country": "FI",
-    "city": "Helsinki",
-    "ai_investments": 18,
-    "linkedin": "https://linkedin.com/in/petervesterbacka",
-    "notable_portfolio": ["Rovio", "Lightneer", "Supercell", "Fingersoft"],
-    "background": "Former Rovio CMO, Angry Birds"
-  },
-  {
-    "rank": 7,
-    "name": "Sebastian Knutsson",
-    "country": "SE",
-    "city": "Stockholm",
-    "ai_investments": 16,
-    "linkedin": "https://linkedin.com/in/sebastianknutsson",
-    "notable_portfolio": ["King", "Resolution Games", "Mojang", "Fast Travel Games"],
-    "background": "Co-founder King Digital Entertainment"
-  },
-  {
-    "rank": 8,
-    "name": "Bjørn Høyland",
-    "country": "NO",
-    "city": "Oslo",
-    "ai_investments": 15,
-    "linkedin": "https://linkedin.com/in/bjornhoyland",
-    "notable_portfolio": ["Opera", "Otovo", "Kahoot!", "ReMarkable"],
-    "background": "Former Opera Software executive"
-  },
-  {
-    "rank": 9,
-    "name": "Hampus Jakobsson",
-    "country": "SE",
-    "city": "Malmö",
-    "ai_investments": 14,
-    "linkedin": "https://linkedin.com/in/hampusjakobsson",
-    "notable_portfolio": ["TAT", "Brisk", "Peaberry", "Watty"],
-    "background": "Co-founder TAT (acq. by BlackBerry)"
-  },
-  {
-    "rank": 10,
-    "name": "Baldur Guðmundsson",
-    "country": "IS",
-    "city": "Reykjavik",
-    "ai_investments": 13,
-    "linkedin": "https://linkedin.com/in/baldurgudmundsson",
-    "notable_portfolio": ["CCP Games", "Controlant", "Monerium", "GRID"],
-    "background": "Former CCP Games executive (EVE Online)"
-  },
-  {
-    "rank": 11,
-    "name": "Kustaa Valtonen",
-    "country": "FI",
-    "city": "Helsinki",
-    "ai_investments": 12,
-    "linkedin": "https://linkedin.com/in/kustaavaltonen",
-    "notable_portfolio": ["Lifeline Ventures", "Varjo", "Dispelix"],
-    "background": "Partner Lifeline Ventures"
-  },
-  {
-    "rank": 12,
-    "name": "Erik Haraldsen",
-    "country": "NO",
-    "city": "Oslo",
-    "ai_investments": 11,
-    "linkedin": "https://linkedin.com/in/erikharaldsen",
-    "notable_portfolio": ["Kolonial", "Scatec", "AutoStore", "No Isolation"],
-    "background": "Founder Kolonial.no"
-  },
-  {
-    "rank": 13,
-    "name": "Taavet Hinrikus",
-    "country": "EE",
-    "city": "Tallinn",
-    "ai_investments": 10,
-    "linkedin": "https://linkedin.com/in/taavet",
-    "notable_portfolio": ["Wise", "Typeform", "Bolt", "Zego"],
-    "background": "Co-founder Wise (formerly TransferWise)"
-  },
-  {
-    "rank": 14,
-    "name": "Ilkka Paananen",
-    "country": "FI",
-    "city": "Helsinki",
-    "ai_investments": 9,
-    "linkedin": "https://linkedin.com/in/ilkkapaananen",
-    "notable_portfolio": ["Supercell", "Brawl Stars", "Clash of Clans"],
-    "background": "Co-founder & CEO Supercell"
-  },
-  {
-    "rank": 15,
-    "name": "Riccardo Zacconi",
-    "country": "SE",
-    "city": "Stockholm",
-    "ai_investments": 8,
-    "linkedin": "https://linkedin.com/in/riccardozacconi",
-    "notable_portfolio": ["King", "Candy Crush", "Peak Games"],
-    "background": "Former CEO King Digital Entertainment"
-  },
-  {
-    "rank": 16,
-    "name": "Kristaps Mauriņš",
-    "country": "LV",
-    "city": "Riga",
-    "ai_investments": 8,
-    "linkedin": "https://linkedin.com/in/kristapsmaurins",
-    "notable_portfolio": ["Printify", "Sonarworks", "VAS"],
-    "background": "Early-stage investor & entrepreneur"
-  },
-  {
-    "rank": 17,
-    "name": "Nerijus Numavicius",
-    "country": "LT",
-    "city": "Vilnius",
-    "ai_investments": 8,
-    "linkedin": "https://linkedin.com/in/nerijusnumavicius",
-    "notable_portfolio": ["Tesonet", "Nord Security", "Hostinger"],
-    "background": "Serial founder & angel investor"
-  },
-  {
-    "rank": 18,
-    "name": "Jaan Tallinn",
-    "country": "EE",
-    "city": "Tallinn",
-    "ai_investments": 7,
-    "linkedin": "https://linkedin.com/in/jaantallinn",
-    "notable_portfolio": ["Skype", "Meta AI", "TransferWise"],
-    "background": "Co-founder Skype & AI investor"
-  },
-  {
-    "rank": 19,
-    "name": "Liis Lemsalu",
-    "country": "EE",
-    "city": "Tallinn",
-    "ai_investments": 6,
-    "linkedin": "https://linkedin.com/in/liislemsalu",
-    "notable_portfolio": ["Starship Technologies", "Skeleton Technologies"],
-    "background": "Early-stage investor"
-  },
-  {
-    "rank": 20,
-    "name": "Magnus Nord",
-    "country": "SE",
-    "city": "Stockholm",
-    "ai_investments": 6,
-    "linkedin": "https://linkedin.com/in/magnusnord",
-    "notable_portfolio": ["Volumental", "Einride", "Detectify"],
-    "background": "Angel investor & advisor"
-  }
+  {"rank":1,"name":"Daniel Ek","country":"Sweden","ai_investments":28,"net_worth":"$4.5B","linkedin":"https://www.linkedin.com/in/dek"},
+  {"rank":2,"name":"Niklas Adalberth","country":"Sweden","ai_investments":24,"net_worth":"$1.2B","linkedin":"https://www.linkedin.com/in/niklasadalberth"},
+  {"rank":3,"name":"Risto Siilasmaa","country":"Finland","ai_investments":22,"net_worth":"$1.8B","linkedin":"https://www.linkedin.com/in/ristosiilasmaa"},
+  {"rank":4,"name":"Mikkel Svane","country":"Denmark","ai_investments":20,"net_worth":"$600M","linkedin":"https://www.linkedin.com/in/mikkelsvane"},
+  {"rank":5,"name":"Janus Friis","country":"Denmark","ai_investments":19,"net_worth":"$1.5B","linkedin":"https://www.linkedin.com/in/janusfriis"},
+  {"rank":6,"name":"Peter Vesterbacka","country":"Finland","ai_investments":18,"net_worth":"$200M","linkedin":"https://www.linkedin.com/in/petervesterbacka"},
+  {"rank":7,"name":"Sebastian Knutsson","country":"Sweden","ai_investments":16,"net_worth":"$500M","linkedin":"https://www.linkedin.com/in/sebastianknutsson"},
+  {"rank":8,"name":"Bjørn Høyland","country":"Norway","ai_investments":15,"net_worth":"$250M","linkedin":"https://www.linkedin.com/in/bjornhoyland"},
+  {"rank":9,"name":"Hampus Jakobsson","country":"Sweden","ai_investments":14,"net_worth":"$150M","linkedin":"https://www.linkedin.com/in/hampusjakobsson"},
+  {"rank":10,"name":"Baldur Guðmundsson","country":"Iceland","ai_investments":13,"net_worth":"$120M","linkedin":"https://www.linkedin.com/in/baldurgudmundsson"},
+  {"rank":11,"name":"Kustaa Valtonen","country":"Finland","ai_investments":12,"net_worth":"$300M","linkedin":"https://www.linkedin.com/in/kustaavaltonen"},
+  {"rank":12,"name":"Erik Haraldsen","country":"Norway","ai_investments":11,"net_worth":"$100M","linkedin":"https://www.linkedin.com/in/erikharaldsen"},
+  {"rank":13,"name":"Taavet Hinrikus","country":"Estonia","ai_investments":10,"net_worth":"$400M","linkedin":"https://www.linkedin.com/in/taavet"},
+  {"rank":14,"name":"Ilkka Paananen","country":"Finland","ai_investments":9,"net_worth":"$1.0B","linkedin":"https://www.linkedin.com/in/ilkkapaananen"},
+  {"rank":15,"name":"Riccardo Zacconi","country":"Sweden","ai_investments":8,"net_worth":"$600M","linkedin":"https://www.linkedin.com/in/riccardozacconi"},
+  {"rank":16,"name":"Kristaps Mauriņš","country":"Latvia","ai_investments":8,"net_worth":"$50M","linkedin":"https://www.linkedin.com/in/kristapsmaurins"},
+  {"rank":17,"name":"Nerijus Numavicius","country":"Lithuania","ai_investments":8,"net_worth":"$40M","linkedin":"https://www.linkedin.com/in/nerijusnumavicius"},
+  {"rank":18,"name":"Jaan Tallinn","country":"Estonia","ai_investments":7,"net_worth":"$180M","linkedin":"https://www.linkedin.com/in/jaantallinn"},
+  {"rank":19,"name":"Liis Lemsalu","country":"Estonia","ai_investments":6,"net_worth":"$20M","linkedin":"https://www.linkedin.com/in/liislemsalu"},
+  {"rank":20,"name":"Magnus Nord","country":"Sweden","ai_investments":6,"net_worth":"$30M","linkedin":"https://www.linkedin.com/in/magnusnord"}
 ]
