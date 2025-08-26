@@ -5,3 +5,5 @@ Open-source database of AI angel investors in Nordic countries — community ver
 
 - [CSV Version](https://github.com/gedumas/nordic-ai-angels/blob/main/data/top-nordic-ai-angels.csv)
 - [JSON Version](https://github.com/gedumas/nordic-ai-angels/blob/main/data/top-nordic-ai-angels.json)
+
+
