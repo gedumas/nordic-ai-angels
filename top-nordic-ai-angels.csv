@@ -1,5 +1,21 @@
-Rank,Name,Country,AI_Investments,Net_Worth
-1,<a href='https://www.linkedin.com/in/dek'>Daniel Ek</a>,🇸🇪 SE,28,$4.5B
-2,<a href='https://www.linkedin.com/in/niklasadalberth'>Niklas Adalberth</a>,🇸🇪 SE,24,$1.2B
-3,<a href='https://www.linkedin.com/in/ristosiilasmaa'>Risto Siilasmaa</a>,🇫🇮 FI,22,$1.8B
-4,<a href='https://www.linkedin.com/in/mikkelsvane'>Mikkel Svane</a>,🇩🇰 DK,20,$600M
+Name,Country,# AI investments,$ Net Worth
+<a href='https://www.linkedin.com/in/dek'>Daniel Ek</a>,🇸🇪 SE,28,$4.5B
+<a href='https://www.linkedin.com/in/niklasadalberth'>Niklas Adalberth</a>,🇸🇪 SE,24,$1.2B
+<a href='https://www.linkedin.com/in/ristosiilasmaa'>Risto Siilasmaa</a>,🇫🇮 FI,22,$1.8B
+<a href='https://www.linkedin.com/in/mikkelsvane'>Mikkel Svane</a>,🇩🇰 DK,20,$600M
+<a href='https://www.linkedin.com/in/janusfriis'>Janus Friis</a>,🇩🇰 DK,19,$1.5B
+<a href='https://www.linkedin.com/in/petervesterbacka'>Peter Vesterbacka</a>,🇫🇮 FI,18,$200M
+<a href='https://www.linkedin.com/in/sebastianknutsson'>Sebastian Knutsson</a>,🇸🇪 SE,16,$500M
+<a href='https://www.linkedin.com/in/bjornhoyland'>Bjørn Høyland</a>,🇳🇴 NO,15,$250M
+<a href='https://www.linkedin.com/in/hampusjakobsson'>Hampus Jakobsson</a>,🇸🇪 SE,14,$150M
+<a href='https://www.linkedin.com/in/baldurgudmundsson'>Baldur Guðmundsson</a>,🇮🇸 IS,13,$120M
+<a href='https://www.linkedin.com/in/kustaavaltonen'>Kustaa Valtonen</a>,🇫🇮 FI,12,$300M
+<a href='https://www.linkedin.com/in/erikharaldsen'>Erik Haraldsen</a>,🇳🇴 NO,11,$100M
+<a href='https://www.linkedin.com/in/taavet'>Taavet Hinrikus</a>,🇪🇪 EE,10,$400M
+<a href='https://www.linkedin.com/in/ilkkapaananen'>Ilkka Paananen</a>,🇫🇮 FI,9,$1.0B
+<a href='https://www.linkedin.com/in/riccardozacconi'>Riccardo Zacconi</a>,🇸🇪 SE,8,$600M
+<a href='https://www.linkedin.com/in/kristapsmaurins'>Kristaps Mauriņš</a>,🇱🇻 LV,8,$50M
+<a href='https://www.linkedin.com/in/nerijusnumavicius'>Nerijus Numavicius</a>,🇱🇹 LT,8,$40M
+<a href='https://www.linkedin.com/in/jaantallinn'>Jaan Tallinn</a>,🇪🇪 EE,7,$180M
+<a href='https://www.linkedin.com/in/liislemsalu'>Liis Lemsalu</a>,🇪🇪 EE,6,$20M
+<a href='https://www.linkedin.com/in/magnusnord'>Magnus Nord</a>,🇸🇪 SE,6,$30M
