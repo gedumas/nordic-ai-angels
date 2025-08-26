@@ -1,21 +1,21 @@
-Rank,Name,Country,City,AI_Investments,LinkedIn,Notable_Portfolio,Background
-1,Daniel Ek,SE,Stockholm,28,https://linkedin.com/in/dek,"Spotify, Helsing, DeepL, Cohere, Stability AI","Founder & CEO Spotify"
-2,Niklas Adalberth,SE,Stockholm,24,https://linkedin.com/in/niklasadalberth,"Klarna, Sana Labs, Granular AI, Mindler","Co-founder Klarna"
-3,Risto Siilasmaa,FI,Helsinki,22,https://linkedin.com/in/ristosiilasmaa,"Nokia, F-Secure, Varjo, Kuva Space","Nokia Chairman, F-Secure founder"
-4,Mikkel Svane,DK,Copenhagen,20,https://linkedin.com/in/mikkelsvane,"Zendesk, Pleo, Trustpilot, Contractbook","Founder & CEO Zendesk"
-5,Janus Friis,DK,Copenhagen,19,https://linkedin.com/in/janusfriis,"Skype, Atomico, Kahoot!, Vivino","Co-founder Skype, Kazaa"
-6,Peter Vesterbacka,FI,Helsinki,18,https://linkedin.com/in/petervesterbacka,"Rovio, Lightneer, Supercell, Fingersoft","Former Rovio CMO, Angry Birds"
-7,Sebastian Knutsson,SE,Stockholm,16,https://linkedin.com/in/sebastianknutsson,"King, Resolution Games, Mojang, Fast Travel Games","Co-founder King Digital Entertainment"
-8,Bjørn Høyland,NO,Oslo,15,https://linkedin.com/in/bjornhoyland,"Opera, Otovo, Kahoot!, ReMarkable","Former Opera Software executive"
-9,Hampus Jakobsson,SE,Malmö,14,https://linkedin.com/in/hampusjakobsson,"TAT, Brisk, Peaberry, Watty","Co-founder TAT (acq. by BlackBerry)"
-10,Baldur Guðmundsson,IS,Reykjavik,13,https://linkedin.com/in/baldurgudmundsson,"CCP Games, Controlant, Monerium, GRID","Former CCP Games executive (EVE Online)"
-11,Kustaa Valtonen,FI,Helsinki,12,https://linkedin.com/in/kustaavaltonen,"Lifeline Ventures, Varjo, Dispelix","Partner Lifeline Ventures"
-12,Erik Haraldsen,NO,Oslo,11,https://linkedin.com/in/erikharaldsen,"Kolonial, Scatec, AutoStore, No Isolation","Founder Kolonial.no"
-13,Taavet Hinrikus,EE,Tallinn,10,https://linkedin.com/in/taavet,"Wise, Typeform, Bolt, Zego","Co-founder Wise (formerly TransferWise)"
-14,Ilkka Paananen,FI,Helsinki,9,https://linkedin.com/in/ilkkapaananen,"Supercell, Brawl Stars, Clash of Clans","Co-founder & CEO Supercell"
-15,Riccardo Zacconi,SE,Stockholm,8,https://linkedin.com/in/riccardozacconi,"King, Candy Crush, Peak Games","Former CEO King Digital Entertainment"
-16,Kristaps Mauriņš,LV,Riga,8,https://linkedin.com/in/kristapsmaurins,"Printify, Sonarworks, VAS","Early-stage investor & entrepreneur"
-17,Nerijus Numavicius,LT,Vilnius,8,https://linkedin.com/in/nerijusnumavicius,"Tesonet, Nord Security, Hostinger","Serial founder & angel investor"
-18,Jaan Tallinn,EE,Tallinn,7,https://linkedin.com/in/jaantallinn,"Skype, Meta AI, TransferWise","Co-founder Skype & AI investor"
-19,Liis Lemsalu,EE,Tallinn,6,https://linkedin.com/in/liislemsalu,"Starship Technologies, Skeleton Technologies","Early-stage investor"
-20,Magnus Nord,SE,Stockholm,6,https://linkedin.com/in/magnusnord,"Volumental, Einride, Detectify","Angel investor & advisor"
+Rank,Name,Country,AI_Investments,Net_Worth,LinkedIn
+1,Daniel Ek,Sweden,28,$4.5B,https://www.linkedin.com/in/dek
+2,Niklas Adalberth,Sweden,24,$1.2B,https://www.linkedin.com/in/niklasadalberth
+3,Risto Siilasmaa,Finland,22,$1.8B,https://www.linkedin.com/in/ristosiilasmaa
+4,Mikkel Svane,Denmark,20,$600M,https://www.linkedin.com/in/mikkelsvane
+5,Janus Friis,Denmark,19,$1.5B,https://www.linkedin.com/in/janusfriis
+6,Peter Vesterbacka,Finland,18,$200M,https://www.linkedin.com/in/petervesterbacka
+7,Sebastian Knutsson,Sweden,16,$500M,https://www.linkedin.com/in/sebastianknutsson
+8,Bjørn Høyland,Norway,15,$250M,https://www.linkedin.com/in/bjornhoyland
+9,Hampus Jakobsson,Sweden,14,$150M,https://www.linkedin.com/in/hampusjakobsson
+10,Baldur Guðmundsson,Iceland,13,$120M,https://www.linkedin.com/in/baldurgudmundsson
+11,Kustaa Valtonen,Finland,12,$300M,https://www.linkedin.com/in/kustaavaltonen
+12,Erik Haraldsen,Norway,11,$100M,https://www.linkedin.com/in/erikharaldsen
+13,Taavet Hinrikus,Estonia,10,$400M,https://www.linkedin.com/in/taavet
+14,Ilkka Paananen,Finland,9,$1.0B,https://www.linkedin.com/in/ilkkapaananen
+15,Riccardo Zacconi,Sweden,8,$600M,https://www.linkedin.com/in/riccardozacconi
+16,Kristaps Mauriņš,Latvia,8,$50M,https://www.linkedin.com/in/kristapsmaurins
+17,Nerijus Numavicius,Lithuania,8,$40M,https://www.linkedin.com/in/nerijusnumavicius
+18,Jaan Tallinn,Estonia,7,$180M,https://www.linkedin.com/in/jaantallinn
+19,Liis Lemsalu,Estonia,6,$20M,https://www.linkedin.com/in/liislemsalu
+20,Magnus Nord,Sweden,6,$30M,https://www.linkedin.com/in/magnusnord
