@@ -1,0 +1,36 @@
+[
+  {
+    "rank": 1,
+    "name": "Daniel Ek",
+    "country": "SE",
+    "city": "Stockholm",
+    "ai_investments": 28,
+    "linkedin": "https://linkedin.com/in/dek",
+    "email": "via Spotify",
+    "notable_portfolio": ["Spotify", "Helsing", "DeepL", "Cohere", "Stability AI"],
+    "background": "Founder & CEO Spotify"
+  },
+  {
+    "rank": 2,
+    "name": "Niklas Adalberth",
+    "country": "SE",
+    "city": "Stockholm",
+    "ai_investments": 24,
+    "linkedin": "https://linkedin.com/in/niklasadalberth",
+    "email": "via Norrsken",
+    "notable_portfolio": ["Klarna", "Sana Labs", "Granular AI", "Mindler"],
+    "background": "Co-founder Klarna"
+  },
+  {
+    "rank": 3,
+    "name": "Risto Siilasmaa",
+    "country": "FI",
+    "city": "Helsinki",
+    "ai_investments": 22,
+    "linkedin": "https://linkedin.com/in/ristosiilasmaa",
+    "email": "risto@siilasmaa.com",
+    "notable_portfolio": ["Nokia", "F-Secure", "Varjo", "Kuva Space"],
+    "background": "Nokia Chairman, F-Secure founder"
+  }
+  // continue with the remaining 12 investors...
+]
